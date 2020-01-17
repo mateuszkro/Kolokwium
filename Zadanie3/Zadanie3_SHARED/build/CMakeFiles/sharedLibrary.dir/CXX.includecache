@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Student.h
+string
+-
+
+/home/kicek/Desktop/Kolokwium/Zadanie3/Zadanie3_SHARED/src/Student.cpp
+iostream
+-
+Student.h
+/home/kicek/Desktop/Kolokwium/Zadanie3/Zadanie3_SHARED/src/Student.h
+

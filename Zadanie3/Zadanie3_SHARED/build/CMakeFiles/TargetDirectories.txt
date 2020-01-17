@@ -1,0 +1,7 @@
+/home/kicek/Desktop/Kolokwium/Zadanie3/Zadanie3_SHARED/build/CMakeFiles/install/strip.dir
+/home/kicek/Desktop/Kolokwium/Zadanie3/Zadanie3_SHARED/build/CMakeFiles/edit_cache.dir
+/home/kicek/Desktop/Kolokwium/Zadanie3/Zadanie3_SHARED/build/CMakeFiles/sharedLibrary.dir
+/home/kicek/Desktop/Kolokwium/Zadanie3/Zadanie3_SHARED/build/CMakeFiles/rebuild_cache.dir
+/home/kicek/Desktop/Kolokwium/Zadanie3/Zadanie3_SHARED/build/CMakeFiles/list_install_components.dir
+/home/kicek/Desktop/Kolokwium/Zadanie3/Zadanie3_SHARED/build/CMakeFiles/install/local.dir
+/home/kicek/Desktop/Kolokwium/Zadanie3/Zadanie3_SHARED/build/CMakeFiles/install.dir
