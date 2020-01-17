@@ -1,0 +1,3 @@
+/home/kicek/Desktop/Kolokwium/Zadanie3/Zadanie3_USE_LIB/build/CMakeFiles/rebuild_cache.dir
+/home/kicek/Desktop/Kolokwium/Zadanie3/Zadanie3_USE_LIB/build/CMakeFiles/myProgram.dir
+/home/kicek/Desktop/Kolokwium/Zadanie3/Zadanie3_USE_LIB/build/CMakeFiles/edit_cache.dir

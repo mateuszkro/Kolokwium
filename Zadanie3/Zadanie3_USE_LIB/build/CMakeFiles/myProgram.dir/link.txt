@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/myProgram.dir/libtest.cpp.o  -o myProgram   -L/home/kicek/Desktop/GOTOWE/Zadanie4/Zadanie4_SHARED/build  -Wl,-rpath,/home/kicek/Desktop/GOTOWE/Zadanie4/Zadanie4_SHARED/build -lsharedLibrary 
