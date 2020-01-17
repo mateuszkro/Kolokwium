@@ -1,0 +1,3 @@
+/home/kicek/Desktop/Kolokwium/Zadanie2/Zadanie2_build/CMakeFiles/rebuild_cache.dir
+/home/kicek/Desktop/Kolokwium/Zadanie2/Zadanie2_build/CMakeFiles/program.dir
+/home/kicek/Desktop/Kolokwium/Zadanie2/Zadanie2_build/CMakeFiles/edit_cache.dir
